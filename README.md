@@ -1,7 +1,5 @@
 # GuessTheNumber
 
-**This project is under the copyright of Mohammad Hossein Anbarlou (Mehrab Anbarlou).**
-
 "GuessTheNumber" is a captivating game crafted with HTML, CSS, and JavaScript. Dive into the world of numerical mysteries, armed with a finite number of guesses. What are you waiting for? Start deciphering the numbers!
 
 ## Description
