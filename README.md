@@ -20,15 +20,3 @@ This project is a simple and engaging number guessing game created using HTML, C
 ## Technologies Used
 
 HTML , CSS , Vanila JS
-
-## Contribution Guidelines
-
-Your contributions to improve the Guess The Number game are welcome. To contribute:
-
-<ul>
-    <li>Fork the project;</li>
-    <li>Make changes in a new branch: git checkout -b feature/new-feature-name;</li>
-    <li>Commit your changes: git commit -m 'Add new feature';</li>
-    <li>Push your branch to your fork: git push origin feature/new-feature-name</li>
-    <li>Use the Pull Request section on GitHub to submit your changes for review and merging.</li>
-</ul>
